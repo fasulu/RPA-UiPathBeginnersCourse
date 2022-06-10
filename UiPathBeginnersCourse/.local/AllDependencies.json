@@ -9369,9 +9369,9 @@
     "restore": {
       "projectUniqueName": "UipathBeginnersCourse",
       "projectName": "UipathBeginnersCourse",
-      "projectPath": "C:\\Users\\fasulu\\Documents\\UiPath\\BeginnersCourse\\UipathBeginnersCourse\\.local",
+      "projectPath": "C:\\Users\\fasulu\\Documents\\UiPath\\RPA-UiPathBeginnersCourse\\UiPathBeginnersCourse\\.local",
       "packagesPath": "C:\\Users\\fasulu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fasulu\\Documents\\UiPath\\BeginnersCourse\\UipathBeginnersCourse\\.local",
+      "outputPath": "C:\\Users\\fasulu\\Documents\\UiPath\\RPA-UiPathBeginnersCourse\\UiPathBeginnersCourse\\.local",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ]

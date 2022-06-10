@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/MyVXk+nir6VLgsjdz5h57riogRyqPuxckJALwQ9gI4XKTPa48o04c7+FQHCgX8IAMQC6h4SmgmrEeJStsBN4Q==",
+  "dgSpecHash": "b0jj0HAAT9+hvGFaosLWwtuk0aNztt0RBf2V2RfVM7JE45sH11SGUaKLdhVnF6hLsQrDc8aEs13iP7GP7Emn8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fasulu\\Documents\\UiPath\\BeginnersCourse\\UipathBeginnersCourse\\.local\\",
+  "projectFilePath": "C:\\Users\\fasulu\\Documents\\UiPath\\RPA-UiPathBeginnersCourse\\UiPathBeginnersCourse\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\fasulu\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\fasulu\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
